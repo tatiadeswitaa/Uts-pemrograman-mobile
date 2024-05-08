@@ -1,5 +1,11 @@
 # flutter_application_2
 
+Nama : Tatia Deswita Anggraeni
+
+Nim : 312210478
+
+Kelas : Ti.22.a5
+
 A new Flutter project.
 
 ## Getting Started
